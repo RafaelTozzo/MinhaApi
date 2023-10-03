@@ -1,0 +1,11 @@
+Comandos no terminal:
+
+Pra gerar o Migrations:
+    dotnet ef migrations add CreateDatabase
+
+Para gerar o banco de dados:
+    dotnet ef database update
+
+Postman:
+    Modelo data aceita no post:
+        2023-09-30T12:00:00

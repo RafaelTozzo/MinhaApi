@@ -1,0 +1,9 @@
+{
+    "sqltools.connections": [
+        {
+            "driver": "SQLite",
+            "database": "${workspaceFolder:MinhaApi}/app.db",
+            "name": "app"
+        }
+    ]
+}
